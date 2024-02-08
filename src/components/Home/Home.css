@@ -1,0 +1,46 @@
+.hero {
+    height: 100vh;
+    background-color: #1ABC9C;
+    padding: 100px 0;
+}
+
+.card {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* height: 100%; */
+    margin: auto;
+    background-color: transparent;
+    width: 25%;
+    border: none;
+}
+
+.card img {
+    background-color: #1ABC9C;
+    border: none;
+
+    width: 100%;
+    border: 2px solid transparent;
+    /* border-radius: 50%; */
+
+}
+
+.lines {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lineOne,
+.lineTwo {
+    height: 5px;
+    width: 10%;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.lines i {
+    margin-top: 10px;
+    padding: 0 20px;
+    vertical-align: middle;
+}

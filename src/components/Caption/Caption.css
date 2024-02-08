@@ -1,0 +1,34 @@
+.lines {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lineOne,
+.lineTwo {
+    height: 7px;
+    width: 10%;
+    background-color: #000;
+    margin-top: 20px;
+}
+
+.lines i {
+    margin-top: 10px;
+    padding: 0 20px;
+    vertical-align: middle;
+}
+
+.parentCap {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.caption h1 {
+    font-size: 40px;
+    /* color: #2C3E50; */
+    font-weight: bold;
+    margin-top: 50px;
+}

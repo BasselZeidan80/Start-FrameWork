@@ -1,0 +1,29 @@
+.footer {
+    background-color: #2C3E50;
+    padding: 60px 0;
+    color: white;
+}
+
+.lastFooter {
+    background-color: #1A252F;
+    padding: 30px 0;
+    color: #fff;
+}
+
+.footer .icons {
+    padding: 20px 0;
+}
+
+
+.footer p {
+    font-size: 18px;
+}
+
+.footer h3 {
+    font-size: 25px;
+}
+
+.footer .icons i {
+    padding: 10px;
+    font-size: 25px;
+}

@@ -8,7 +8,7 @@ export default class Layout extends Component {
     return (
       <div>
         <Navbar />
-        <div className="design mt-5  ">
+        <div className="design   ">
         <Outlet/>
         </div>
         <Footer />

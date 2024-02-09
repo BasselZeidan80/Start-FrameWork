@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
-import Navbar from '../NavBar/Navbar'
 import './Home.css'
 import Caption from '../Caption/Caption'
-import Footer from '../Footer/Footer'
 export default class Home extends Component {
 
 

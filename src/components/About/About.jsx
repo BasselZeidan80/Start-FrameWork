@@ -14,15 +14,15 @@ export default class About extends Component {
  
 
             <div className="row mt-5  ">
-                <div className="col-lg-6 mt-5">
-                    <p className='fs-4 mt-5'>
+                <div className="col-lg-6 ">
+                    <p className='fs-4 '>
                     Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
 
 
                     </p>
                 </div>
-                <div className="col-lg-6 mt-5">
-                    <p className='fs-4 mt-5'>
+                <div className="col-lg-6 ">
+                    <p className='fs-4 '>
                     Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
 
                     </p>

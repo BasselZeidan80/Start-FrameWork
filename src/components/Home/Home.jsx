@@ -20,7 +20,7 @@ export default class Home extends Component {
     <div className="hero">
       <div className="container">
         
-          <div className="card mt-5  ">
+          <div className="card mt-4  ">
             <div className="image ">
             <img src="https://routeegy.github.io/startFramework/assets/images/avataaars.svg" className='w-100' alt="" />
             </div>
@@ -32,7 +32,7 @@ export default class Home extends Component {
 
       
 
-                      <div className="text fs-4 text-white mt-3">
+                      <div className="text fs-4 text-white mt-2">
                       <p>Graphic Artist - Web Designer - Illustrator</p>
                     </div>
 
